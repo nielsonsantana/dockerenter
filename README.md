@@ -6,12 +6,12 @@ Shortcuts to enter on a running container by name
 
 ### dockerenter for containers running /bin/bash
 
-    curl -L https://raw.githubusercontent.com/nielsonsantana/dockerenter/master/dockerenter.bash > /usr/local/bin/dockerenter
+    curl -L https://raw.githubusercontent.com/nielsonsantana/dockerenter/master/dockerenter.bash -o /usr/local/bin/dockerenter
     chmod +x /usr/local/bin/dockerenter
 
 ### dockerenter for containers running /bin/sh
 
-    curl -L https://raw.githubusercontent.com/nielsonsantana/dockerenter/master/dockerenter.sh > /usr/local/bin/dockerentersh
+    curl -L https://raw.githubusercontent.com/nielsonsantana/dockerenter/master/dockerenter.sh -o /usr/local/bin/dockerentersh
     chmod +x /usr/local/bin/dockerentersh
 
 ## Usage
