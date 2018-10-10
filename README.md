@@ -1,6 +1,8 @@
 # dockerenter
 
-Shortcuts to enter on a running container by name
+Shortcuts to enter on a running container by name. 
+This tools is a easy alternative to run `docker exec -it <CONTAINER-ID>`.
+Now, you don't need copy and past the CONTAINER-ID to enter on a running container.
 
 ## Install
 
