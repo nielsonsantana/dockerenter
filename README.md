@@ -1,6 +1,6 @@
 # dockerenter
 
-Shortcut to enter on a running container by name
+Shortcuts to enter on a running container by name
 
 ## Install
 
